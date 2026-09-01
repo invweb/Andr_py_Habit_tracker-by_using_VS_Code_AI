@@ -122,7 +122,7 @@ briefcase create windows && briefcase build windows && briefcase run windows
 
 | Main | Add | Completed |
 |------|-----|-----------|
-| ![Main](screenshots/01_main.png) | ![Add](screenshots/02_add.png) | ![Done](screenshots/03_done.png) |
+| ![Main](screenshots/i (1).webp) | ![Add](screenshots/02_add.png) | ![Done](screenshots/03_done.png) |
 
 ---
 
