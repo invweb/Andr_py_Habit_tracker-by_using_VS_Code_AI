@@ -246,7 +246,7 @@ briefcase create windows && briefcase build windows && briefcase run windows
 
 | Главная | Добавление | Выполнено |
 |---------|------------|-----------|
-| ![Главный экран](screenshots/01_main.png) | ![Добавление](screenshots/02_add.png) | ![Выполнено](screenshots/03_done.png) |
+| ![Главный экран](screenshots/01_main.png) | ![Добавление](screenshots/02_main.png) | ![Выполнено](screenshots/03_main.png) |
 
 ## 🧠 Как это работает
 
