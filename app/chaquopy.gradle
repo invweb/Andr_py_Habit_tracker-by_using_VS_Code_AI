@@ -1,0 +1,7 @@
+// Chaquopy configuration for Python integration
+apply plugin: 'com.chaquo.python'
+
+python {
+    version "3.11"
+    buildArgs "targetApi", "24"
+}

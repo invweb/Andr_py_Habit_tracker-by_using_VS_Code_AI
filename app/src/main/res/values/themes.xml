@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.MyPythonApp" parent="Theme.MaterialComponents.Light" />
+</resources>

@@ -1,0 +1,27 @@
+[tool.briefcase]
+project_name = "Habit Tracker"
+bundle = "com.yourname"
+version = "0.1.0"
+url = "https://github.com/yourname/habit-tracker"
+license = "MIT"
+author = "Your Name"
+author_email = "your@email.com"
+
+[tool.briefcase.app.habit_tracker]
+formal_name = "Habit Tracker"
+description = "Трекер привычек на BeeWare/Toga"
+long_description = """
+Простое и красивое приложение для отслеживания ежедневных привычек.
+Добавляйте привычки, отмечайте выполнение, следите за серией.
+"""
+sources = ["src/habit_tracker"]
+
+[tool.briefcase.app.habit_tracker.macOS]
+requires = []
+
+[tool.briefcase.app.habit_tracker.linux]
+requires = []
+system_requires = ["libwebkit2gtk-4.1"]
+
+[tool.briefcase.app.habit_tracker.windows]
+requires = []

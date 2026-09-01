@@ -1,0 +1,28 @@
+[build-system]
+requires = ["briefcase"]
+build-backend = "briefcase"
+
+[project]
+name = "habit-tracker"
+version = "0.1.0"
+description = "Трекер привычек на BeeWare/Toga"
+requires-python = ">=3.9"
+dependencies = [
+    "toga",
+    "toga-core",
+    "toga-macos",
+]
+
+[tool.briefcase]
+project_name = "Habit Tracker"
+bundle = "com.yourname"
+version = "0.1.0"
+url = "https://github.com/yourname/habit-tracker"
+license = "MIT"
+author = "Your Name"
+author_email = "your@email.com"
+
+[tool.briefcase.app.habit_tracker]
+formal_name = "Habit Tracker"
+description = "Трекер привычек на BeeWare/Toga"
+sources = ["src/habit_tracker"]

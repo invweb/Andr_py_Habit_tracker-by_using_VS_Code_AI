@@ -1,0 +1,3 @@
+project_name = "Habit Tracker"
+source_dir = "src"
+installer = ""
