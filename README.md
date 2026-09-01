@@ -120,9 +120,9 @@ briefcase create windows && briefcase build windows && briefcase run windows
 
 ### Android Version
 
-| Main | Add | Completed |
-|------|-----|-----------|
-| ![Main](screenshots/i (1).webp) | ![Add](screenshots/02_add.png) | ![Done](screenshots/03_done.png) |
+| Main                             | Add | Completed                        |
+|----------------------------------|-----|----------------------------------|
+| ![Main](screenshots/01_main.png) | ![Add](screenshots/02_main.png) | ![Done](screenshots/03_main.png) |
 
 ---
 
